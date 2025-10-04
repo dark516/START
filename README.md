@@ -1,3 +1,4 @@
 # START
 System of training and adaptation in Robotic Technologies
-Здесь будет документация проекта
+----
+Overview and documentation of the robot
