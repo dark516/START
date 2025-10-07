@@ -1,6 +1,3 @@
 [submodule "robot"]
-        path = robot
-        url = https://github.com/dark516/START-robot.git
-[submodule "firmware"]
-        path = firmware
-        url = https://github.com/dark516/START-firmware.git
+	path = robot
+	url = https://github.com/dark516/START-robot.git
